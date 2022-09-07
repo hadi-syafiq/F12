@@ -1,5 +1,7 @@
 # F12
-An open source 12 key, 1 encoder, hotswappable that can be entirely assembled using only through hole components, powered by Vial Firmware
+An open source 12 key, 1 encoder, that can be entirely assembled using only through hole components, powered by Vial Firmware
+![PCB](https://github.com/hadi-syafiq/F12/blob/main/6x2.png?raw=true)
+
 
 ## Parts
 | Name | Count | Remarks |
