@@ -21,3 +21,6 @@ This is under the MIT liscense, due to this, i will not be held responsible for 
 | 75r 1/4w resistor           | 2      | |
 | ec11 encoder                | 1      | |
 | 6x6mm pushbutton            | 2      | |
+
+
+if you are in indonesia, you can buy this pcb directly from [tokopedia.com/hadi-syafiq](https://www.tokopedia.com/hadi-syafiq)
